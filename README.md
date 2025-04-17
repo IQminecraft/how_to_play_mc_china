@@ -87,12 +87,14 @@
 
 #### iOSの場合
 1. [TestFlight](https://testflight.apple.com/join/mOxZm1dD)をApp Storeからインストール
-2. リンクから我的世界（マインクラフト）中国版をダウンロード
+2. リンクから我的世界（マインクラフト）中国版をダウンロード  
+※おそらくVPNが必要になります
 
 #### Androidの場合
 1. [TapTap](https://dispatch.taptap.cn/)をダウンロード・インストール
 2. TapTap内で「我的世界」を検索
-3. アプリをダウンロード・インストール
+3. アプリをダウンロード・インストール  
+※おそらくVPNが必要になります([おすすめ](https://play.google.com/store/apps/details?id=com.apps.inspironxp.changeip))
 
 #### web clientからの場合(windowsでも可)
 1. [cg.163](https://cg.163.com/#/mobile)にアクセスしサインイン
