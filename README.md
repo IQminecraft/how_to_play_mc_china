@@ -50,7 +50,7 @@
 
 ### 3. VPN設定
 #### ※現在なぜかなしでもいけるっぽいです
-1. [SoftEther VPN](https://www.softether-download.com/ja.aspx)から「VPN Gate Client」をダウンロード
+1. [SoftEther VPN](https://www.vpngate.net/ja/download.aspx)から「VPN Gate Client」をダウンロード
 
 ![VPNダウンロード画面](./images/10-1.png)
 
