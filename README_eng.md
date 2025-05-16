@@ -55,7 +55,7 @@
 
 ### 3. VPN Setup  
 #### ⚠️ As of now, VPN *might* not be required  
-1. Download “VPN Gate Client” from [SoftEther VPN](https://www.softether-download.com/ja.aspx)
+1. Download “VPN Gate Client” from [SoftEther VPN](https://www.vpngate.net/en/download.aspx)
 
 ![VPN download screen](./images/10-1.png)
 
