@@ -52,8 +52,6 @@
 #### ※現在なぜかなしでもいけるっぽいです
 1. [SoftEther VPN](https://www.vpngate.net/ja/download.aspx)から「VPN Gate Client」をダウンロード
 
-![VPNダウンロード画面](./images/10-1.png)
-
 2. インストーラーを実行
 3. VPN Gate接続:
 
