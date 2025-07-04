@@ -1,5 +1,6 @@
 # Minecraft China Edition Play Guide  
 ### ⚠️ Proceed at your own risk  
+### I don't have a detailed grasp of it,
 
 ## Platforms Covered  
 - Windows  
