@@ -1,6 +1,6 @@
 # Minecraft China Edition Play Guide  
 ### ⚠️ Proceed at your own risk  
-### I don't have a detailed grasp of it,
+### *It may not be possible to use a phone number other than a Japanese one (I don't know the details...)
 
 ## Platforms Covered  
 - Windows  
